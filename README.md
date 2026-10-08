@@ -11,4 +11,4 @@
 #### 8.menambahkan komentar
 #### 10.menggabungkan semua elemen
 
-![image alt](https://github.com/dzakyahmadhibrizi-cmyk/Lab1web/blob/main/images/profil%20mahasiswa.jpeg?raw=true)
+![image alt](https://github.com/dzakyahmadhibrizi-cmyk/Lab1web/blob/main/pemrogramanweb/images/Screenshot%202026-10-08%20115024.png?raw=true)
